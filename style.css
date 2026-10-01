@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 1rem;
+}
+
+/* Ex 4.3: responsive container for D3 svg */
+.responsive-svg-container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+  max-width: 1200px;
+}
